@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#name{
+    background-color: black;
+}
+
+h1{
+    color: brown;
+}
+
+.form-box{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.input1{
+    background-color:aquamarine;
+}
+
+#one{
+    background-color:aliceblue;
+}
+
+div{
+    width: 30x;
+    height: 20x;
+    background-color:azure ;
+}

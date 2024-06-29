@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+
+p{
+    color:blueviolet;
+}
+
+button{
+    background-color: black;
+    color:blue;
+}
+
+body{
+    background-color: skyblue;
+}
+
+*{
+    color:azure;   <!universal selector>
+}
+
+#headingone{
+    color:chocolate;
+
+}
+
+#headingtwo{
+    color:darkseagreen;
+}
+
+#headingthree{
+    color:forestgreen;
+}
+
+.what{
+    color:navy;
+}
